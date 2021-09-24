@@ -4,7 +4,7 @@
 Hey!👋 
 I'm Jess and I'm a developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm currently learning node.js 
 
-<h2 align="center">My Langauges</h2>
+<h2 align="center">My Languages</h2>
 <p align="center">Languages:</p>
 
 <p align="center">
