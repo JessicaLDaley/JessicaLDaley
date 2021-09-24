@@ -10,7 +10,7 @@ I'm Jess and I'm a developer. I'm enrolled in Uconn's School of Engineering Codi
 <p align="center">
   <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=black" height='42px'/>
   <img src="https://img.shields.io/badge/HTML-e97f00?style=for-the-badge&logo=html&logoColor=white" height='42px'/>
-  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=black" height='42px'>
+  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white" height='42px'>
   <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=white" height='42px'>
 </p>
 
