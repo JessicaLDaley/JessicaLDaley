@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**JessicaLDaley/JessicaLDaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Jessica's Github 🪐
+Hey!👋 
+I'm Jess and I'm a developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm currently learning node.js 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">My Langauges</h2>
+<p align="center">Languages:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=black" height='42px'/>
+  <img src="https://img.shields.io/badge/HTML-e97f00?style=for-the-badge&logo=html&logoColor=white" height='42px'/>
+  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=black" height='42px'>
+  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=white" height='42px'>
+</p>
+
+<h2 align="center">Statistics</h2>
+<p align="center">GitHub Stats</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JessicaLDaley&show_icons=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+<img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaLDaley&layout=compact&hide_border=true&theme=dark" />
+</p>
