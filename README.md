@@ -2,7 +2,7 @@
 
 ## Jessica's Github 🪐
 Hey!👋 
-I'm Jess and I'm a front-end developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm currently learning Exspress.js 
+I'm Jess and I'm a front-end developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm currently learning MySQL 
 
 <h2 align="center">My Languages</h2>
 <p align="center">Languages:</p>
