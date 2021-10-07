@@ -8,10 +8,11 @@ I'm Jess and I'm a front-end developer. I'm enrolled in Uconn's School of Engine
 <p align="center">Languages:</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=black" height='42px'/>
-  <img src="https://img.shields.io/badge/HTML-e97f00?style=for-the-badge&logo=html&logoColor=white" height='42px'/>
-  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white" height='42px'>
-  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=white" height='42px'>
+  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=blue" height='42px'/>
+  <img src="https://img.shields.io/badge/HTML-e97f00?style=for-the-badge&logo=html&logoColor=red" height='42px'/>
+  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=yellow" height='42px'>
+  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=green" height='42px'>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=yellow" height='42px'>
 </p>
 
 <h2 align="center">Statistics</h2>
