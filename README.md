@@ -17,6 +17,8 @@ I'm Jess and I'm a front-end developer. I'm enrolled in Uconn's School of Engine
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue" height='42px'/>
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=purple" height='42px'/>
   <img src="https://img.shields.io/badge/Bulma-000000?style=for-the-badge&logo=bulma&logoColor=aqua" height='42px'/>
+   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red" height='42px'/>
+  
   
   
  </p>
