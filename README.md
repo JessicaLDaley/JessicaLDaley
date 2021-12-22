@@ -2,7 +2,7 @@
 
 ## Jessica's Github 🪐
 Hey!👋 
-I'm Jess and I'm a front-end developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm excited to build my career as a full stack developer. 
+I'm Jess and I'm a full-stack developer. I'm enrolled in Uconn's School of Engineering Coding Bootcamp and I'm excited to build my career as a full stack developer. 
 
 <h2 align="center">My Languages</h2>
 <p align="center">Languages:</p>
