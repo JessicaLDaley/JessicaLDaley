@@ -20,7 +20,7 @@ I'm Jess and I'm a full-stack developer. I'm currently finishing up Uconn's Scho
    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=red" height='42px'/>
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue"
 height='42px'/>
-     <img src="https://img.shields.io/badge/Chakra-000000?style=for-the-badge&logo=chakra&logoColor=aqua"
+     <img src="https://img.shields.io/badge/ChakraUI-000000?style=for-the-badge&logo=chakraui&logoColor=aqua"
          height='42px'/>
   
   
