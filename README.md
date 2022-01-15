@@ -4,7 +4,7 @@
 Hey!👋 
 I'm Jess and a junior full-stack developer. I recently graduated from Uconn's School of Engineering Coding Bootcamp and I'm excited to build my professional career. 
 
-<a href="https://jessicaldaley.github.io/my-react-portfolio/">My portfolio built with React</a>
+<a href="https://jessicaldaley.github.io/my-portfolio/">My portfolio built with React</a>
 
 <h2 align="center">My Languages</h2>
 <p align="center">Languages:</p>
