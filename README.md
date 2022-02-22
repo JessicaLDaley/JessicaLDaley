@@ -1,6 +1,6 @@
 
 
-## Jessica's Github 🪐
+## Jessica's Github 
 Hey!👋 
 I'm Jess and a junior front end developer. I recently graduated from Uconn's School of Engineering Coding Bootcamp and I'm excited to build my professional career. 
 
